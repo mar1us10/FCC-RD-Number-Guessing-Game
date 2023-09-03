@@ -1,1 +1,1 @@
-# FCC-RD-Number-Guessing-Game
+Number Guessing Game - Part of Relational Database certification with freeCodeCamp.
